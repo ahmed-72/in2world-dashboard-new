@@ -1,0 +1,8 @@
+<svg id="Page-1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Icon-set" transform="translate(-245 -1484)">
+    <g id="Group" transform="translate(245 1484)">
+      <path id="Path" d="M16,0A16,16,0,1,0,32,16,16,16,0,0,0,16,0Z" fill="#2767b2" fill-rule="evenodd"/>
+      <path id="Combined-Shape" d="M20.525,11.685C24.3,11.685,25,14.17,25,17.4v6.582H21.27V18.147c0-1.391-.024-3.182-1.938-3.182-1.941,0-2.237,1.516-2.237,3.083v5.935H13.37v-12h3.575v1.641H17A3.918,3.918,0,0,1,20.525,11.685Zm-9.5.3v12H7.3v-12ZM9.164,6.016A2.163,2.163,0,1,1,7,8.179,2.163,2.163,0,0,1,9.164,6.016Z" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
